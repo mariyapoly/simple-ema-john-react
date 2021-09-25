@@ -1,6 +1,6 @@
 # simple ema-john react 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple ema-john project link (https://festive-nightingale-06cd83.netlify.app/)
 
 ## Available Scripts
 
